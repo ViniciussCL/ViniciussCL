@@ -1,5 +1,5 @@
  # 👋 - Hi Programmer 
- My name is Marcus Vincius. I'm from Brazil and i'm currently living in Rio das ostras -RJ ☀.
+ My name is Marcus Vinicius. I'm from Brazil and i'm currently living in Rio das ostras -RJ ☀.
  
  I'm actually learning logical programming , Python and i'm focused on Back-end programming ⚙.
 
