@@ -3,9 +3,12 @@
  
  I'm actually learning logical programming , Python and i'm focused on Back-end programming ⚙.
  
- Here you'll se my firsts projects and my evolution in the area:
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-cristino-974b28210/)](https://www.linkedin.com/in/marcus-vinicius-cristino-974b28210//)
+ Here you will se my evolution in the area
  
+ Would you like to find me ? 🔎
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-cristino-974b28210/)](https://www.linkedin.com/in/marcus-vinicius-cristino-974b28210//)
+
 <!---
 ViniciussCL/ViniciussCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
