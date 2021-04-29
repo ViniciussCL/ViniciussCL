@@ -8,6 +8,8 @@
  Would you like to find me ? 🔎
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-cristino-974b28210/)](https://www.linkedin.com/in/marcus-vinicius-cristino-974b28210//)
+[![Gmail Badge](https://img.shields.io/badge/-Marcusviniciuscristino75@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Marcusviniciuscristino75@gmail.com)](mailto:Marcusviniciuscristino75@gmail.com)
+
 
 <!---
 ViniciussCL/ViniciussCL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
