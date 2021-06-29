@@ -1,7 +1,7 @@
  # 👋 - Hi Programmer 
  My name is Marcus Vinicius. I'm from Brazil and I live in Rio das ostras -RJ ☀.
  
- Now I'm learning logical programming , Python and I'm focused on Back-end programming ⚙.
+ Now I'm learning HTML/CSS, JavaScript and React. I'm now focused in Frontend programming ⚙.
  
  Here you will se my evolution in the area.
  
